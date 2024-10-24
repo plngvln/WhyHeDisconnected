@@ -1,0 +1,4 @@
+name: WhyHeDisconnected
+version: '${version}'
+main: com.example.whyhedisconnected.WhyHeDisconnected
+api-version: '1.21.1'
